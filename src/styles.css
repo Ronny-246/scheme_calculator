@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.primary {
+  font-size: 48px;
+  color: red;
+}
+
+.buttonprimary {
+  cursor: pointer;
+  background: #e5e7eb;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  margin: 1rem 0.3rem;
+}
+.productChoice {
+  margin: 2rem 3rem;
+  padding: 0.5rem 3rem;
+  border: 15px solid black;
+  border-radius: 3rem;
+}
+
+.inputfield {
+  margin: 1rem 0.3rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.table {
+  border: 1px solid black;
+  width: 80%;
+  margin: auto;
+}
+
+.th {
+  height: 50px;
+  border: 1px solid black;
+}
